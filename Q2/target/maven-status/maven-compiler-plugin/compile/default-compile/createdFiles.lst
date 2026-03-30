@@ -1,0 +1,5 @@
+servlets\VisitServlet.class
+com\mycompany\q2\JakartaRestConfiguration.class
+ejb\VisitBean.class
+ejb\VisitBeanLocal.class
+com\mycompany\q2\resources\JakartaEE10Resource.class
